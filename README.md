@@ -122,12 +122,25 @@ Turn on the "Ask a member a question" option. We use this field to obtain the me
 
 **_What is your full legal name (this information is necessary for building security only and will not be shared elsewhere)?_**
 
+Turn on the RSVP start and end time option. This allows us to start accepting RSVPs at a later time after the meetup is announced. We typically turn off RSVPs two days prior to the event, so the venue's building security has time to enter all the names in.
 
+Before Publishing the meetup event, you can Preview it, or simply save it as a draft. Publishing places the meetup information on the meetup's meetup.com website. However, while the meetup event is published live for the public to access, no one has been proactively informed that the meetup information is available.
 
+To proactively push this information to meetup members, you select the "Announce this Meetup" button.
 
+#### A Note on Announcing vs. Making RSVPs Available
 
+Through trial and error, we have discovered that we get an improved ratio of actual attendees to RSVPs when we announce no earlier than two weeks prior to the event. This typcally allows just over a week and a half for people to RSVP. So while technically, you can publish a meetup event on the meetup.com website, you shouldn't announce the event until two weeks prior to the event.
 
 ## Meetup Member Messages
+We primarily use member messages to promote upcoming meetup events. However, we also attemot to provide value by also incouding other events, news and information that may be interesting to our members.
+
+For promotional purposes, we send 2-3 member emails out, * the first being two weeks prior to the event
+* the seecond being one week prior to the event
+* a third message is potentially sent shortly before the RSVP deadline if 
+** our RSVP numbers are low
+** we are waitlisted and feel a reminder that RSVPs should be changed if plans change
+
 ## Promotion of the Event
 ## Set Up YouTube Live Stream
 ## Coordinating Live Caption Services 
