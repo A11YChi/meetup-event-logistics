@@ -91,7 +91,32 @@ If at a large corporate organization, make sure the floor matches what the conta
 
 ![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/meetup-schedule-what.png "Photo for the event and the description field, allowing for 4000 characters.")
 
+The What section prompts for an event photo and description.
 
+For the photo, we typically use a overall crowd shot from a prior meetup event. This way, there is an expectation set on the format and environment for the event. If the topic calls for it, we may use a custom "hero" image, similar to [our April 2018 meetup event](https://www.meetup.com/a11ychi/events/247810000/).
+
+For the description, it should following this format:
+
+[meetup event description]
+[Presenter bios]
+
+As the event gets closer, additional information is added, such as RSVP/Waitlist handling, requests to change your RSVP if your plan change and the schedule of events.
+
+#### Who
+
+![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/meetup-schedule-who.png "Who is hosting the event, capacity and if members can bring guests")
+
+The person scheduling the meetup event is the default host of the event. You can add other organizers to this list.
+
+For number of spots available, this is directly tied into the capacity for the venue. We typically oversell events, like airlines. We have an average attendance rate over RSVPs of 40%. Therefore, it is acceptable to set the available spots to double the actual capacity. This may change in the future, or for some events. We do not wish to have more people attend than can officially be hosted in a space, as this may cause issues for the venue-sponsoring organization.
+
+We do not want members to bring "guests" to meetup events, as most venues require a list of names of individuals on the RSVP list for building security. So ensure this is not checked.
+
+#### Additional Settings
+
+![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/meetup-schedule-additional-settings.png "Member question and RSVP start/end time")
+
+The options under Additional Settings are all off by default. 
 
 
 
