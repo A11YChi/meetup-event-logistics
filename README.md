@@ -135,7 +135,8 @@ Through trial and error, we have discovered that we get an improved ratio of act
 ## Meetup Member Messages
 We primarily use member messages to promote upcoming meetup events. However, we also attemot to provide value by also incouding other events, news and information that may be interesting to our members.
 
-For promotional purposes, we send 2-3 member emails out, * the first being two weeks prior to the event
+For promotional purposes, we send 2-3 member emails out,
+* the first being two weeks prior to the event
 * the seecond being one week prior to the event
 * a third message is potentially sent shortly before the RSVP deadline if 
 ** our RSVP numbers are low
