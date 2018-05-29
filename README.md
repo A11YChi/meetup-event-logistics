@@ -142,6 +142,21 @@ For promotional purposes, we send 2-3 member emails out,
   * our RSVP numbers are low
   * we are waitlisted and feel a reminder that RSVPs should be changed if plans change
 
+To create an email message to members:
+1. Navigate to the A11YChi meetup homepage.
+2. On the left side, select the "Manage group" drop-down button, then select "Email members.""
+3. The default setting, "All members subscribed to organizer messages" should be selected. Other options are available based on the situation.
+
+![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/meetup-member-email.png "Member message audience targeting and subject line")
+
+4. In the Subject text inout field, enter the email message's subject. In the past, we've tended to summerarize the content in the email message.
+5. Enter the member message content in the Message field.
+6. Select Preview if you wish to see the message before sending it.
+7. Select Submit. The member message should be received in your email inbox within a few minutes.
+
+![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/meetup-member-email-message.png "Member email message")
+
+
 ## Promotion of the Event
 ## Set Up YouTube Live Stream
 ## Coordinating Live Caption Services 
