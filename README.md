@@ -139,8 +139,8 @@ For promotional purposes, we send 2-3 member emails out,
 * the first being two weeks prior to the event
 * the seecond being one week prior to the event
 * a third message is potentially sent shortly before the RSVP deadline if 
-** our RSVP numbers are low
-** we are waitlisted and feel a reminder that RSVPs should be changed if plans change
+..* our RSVP numbers are low
+..* we are waitlisted and feel a reminder that RSVPs should be changed if plans change
 
 ## Promotion of the Event
 ## Set Up YouTube Live Stream
