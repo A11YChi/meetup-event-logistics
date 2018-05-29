@@ -44,6 +44,14 @@ Once a venue has agreed to host the event, you must coordinate the dates of avai
 ## Finalizing the Plans for the Event
 Once you have agreement with the speaker(s) and venue on the date and time for the event, it is best to summerize via email the information for both groups to ensure there is no confusion or miscommunication. Once you receive a response of confirmation, the event can be scheduled.
 
+### Venue Guidance
+Once a preferred venue has agreed to host a meetup event, please verify the location, including floor. Also ask for a sentence or paragraph providing guidance to the event space once you enter the building. 
+
+### Presentation Title & Description and Speaker Bio
+Once the speaker(s) has agreed to present at an event, ask that they send a presentation title and description of their presentation. We also ask for a speaker biography, typically 2-3 sentences. This will be used on the Meetup event page and spoken during introductions at the actual event. 
+
+Make sure to ask for and receive the speaker(s) pronouns (he/his, etc.)  
+
 ## Announcing the Event
 Once plans for an event are finalized, announcement and promotion can begin.
 
@@ -53,7 +61,7 @@ Announcement takes a couple forms; Meetup Announcement and Messages to Members.
 You first need to create the meetup event on Meetup.com.
 1. Go to [meetup.com/A11YChi/](https://meetup.com/A11YChi/)
 2. On the right side, select the Plan a Meetup downdrop button, and select the "Schedule a New Meetup" option.
-![alt text](https://github.com/A11YChi/meetup-event-logistics/img/meetup-schedule-event.png "Plan an Meetup button with Schedule a New Meetup option") 
+![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/meetup-schedule-event.png "Plan an Meetup button with Schedule a New Meetup option") 
 
 ## Meetup Member Meesages
 ## Promotion of the Event
