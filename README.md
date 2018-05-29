@@ -11,7 +11,7 @@ This document hopes to capture everything involved in organizing a A11YChi event
 4. Coordinate Dates
 5. Finalizing the Plans for the Event
 6. Announcing the Event
-7. Meetup Member Meesages
+7. Meetup Member Messages
 8. Promotion of the Event
 9. Set Up YouTube Live Stream
 10. Coordinating Live Caption Services 
@@ -63,7 +63,40 @@ You first need to create the meetup event on Meetup.com.
 2. On the right side, select the Plan a Meetup downdrop button, and select the "Schedule a New Meetup" option.
 ![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/meetup-schedule-event.png "Plan an Meetup button with Schedule a New Meetup option") 
 
-## Meetup Member Meesages
+The "Schedule a Meetup" screen appears.
+
+#### Meetup Title
+
+![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/meetup-schedule-title.png "The meetup event title field")
+
+The first field is the Meetup Title. This is an up to 80 character descriptive title for the event. Shorter is better (think social media), but we must make it descriptive.
+
+#### Meetup Date and Time
+
+![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/meetup-schedule-date-time.png "The meetup event date and time")
+
+Here, you input the event date. Time is typically 6pm, ending at 8pm.
+
+We leave the meetup event as being hosted "just once."
+
+#### Where
+
+![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/meetup-schedule-location.png "The meetup event location")
+
+Here is where we select the location of the venue. If listed under "Recent Places," then simply select. Otherwise, enter the address in the search text input box with the label "Pick a place."
+
+If at a large corporate organization, make sure the floor matches what the contact communicated. We have had a few mix-ups in the past.
+
+#### What
+
+![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/meetup-schedule-what.png "Photo for the event and the description field, allowing for 4000 characters.")
+
+
+
+
+
+
+## Meetup Member Messages
 ## Promotion of the Event
 ## Set Up YouTube Live Stream
 ## Coordinating Live Caption Services 
