@@ -120,7 +120,7 @@ The options under Additional Settings are all off by default.
 
 Turn on the "Ask a member a question" option. We use this field to obtain the member's legal full name, which is only used for the RSVP list that is sent to building security. The exact verbage of the member question is:
 
-**What is your full legal name (this information is necessary for building security only and will not be shared elsewhere)?**
+**_What is your full legal name (this information is necessary for building security only and will not be shared elsewhere)?_**
 
 
 
