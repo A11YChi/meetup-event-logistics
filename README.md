@@ -199,8 +199,38 @@ To set up the Live Stream event on YouTube:
 
 The resulting YouTube URL for this recording will be used in promoting the Live Stream for the event, as well as provide the Live Captioning service the Live Stream URL.
 
-
 ## Coordinating Live Caption Services 
+We schedule our live captions and any other alternative communication services more than a week prior to the event. A11YChi uses Alternative Communication Services (ACS). While the business has an online form to request services, we typically contact the operations manager, Carmin Beardsley, directly via email to ensure proper scheduling.
+
+Live captions can be provided in-person and remotely. For our meetups, we leverage remote live captioning. This requires the live streaming and supportive wi-fi to be of the highest quality. When scheduling the event with Carmin, we provide the following information:
+* Date of event
+* Time of event (meaning, the time of the live stream; typically 6:30pm CT)
+* Name of the event
+* Meetup event page URL
+* YouTube Live Stream URL (see above)
+Carmin will provide a confirmation with the name and contact information of the remote captioner. If confirmation is not received by the RSVP deadline date, follow-up with Carmin for confirmation.
+
 ## Day of Meetup Event
 ## Post Meetup Event
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
