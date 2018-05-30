@@ -149,15 +149,38 @@ To create an email message to members:
 
 ![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/meetup-member-email.png "Member message audience targeting and subject line")
 
-4. In the Subject text inout field, enter the email message's subject. In the past, we've tended to summerarize the content in the email message.
+4. In the Subject text input field, enter the email message's subject. In the past, we've tended to summerarize the content in the email message.
 5. Enter the member message content in the Message field.
 6. Select Preview if you wish to see the message before sending it.
 7. Select Submit. The member message should be received in your email inbox within a few minutes.
 
 ![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/meetup-member-email-message.png "Member email message")
 
+*Note:* If something should happen where the email is not received within a decent timeframe, you can also send from your email client, by sending it to meetup-a11ychi-announce@meetup.com.
 
 ## Promotion of the Event
+We use various methods to promote the meetup events.
+* Social Media
+* Chicago Tech Events
+* Laura Carlson's Weekly Web Design Update Newsletter
+* Eventbrite
+
+### Social Media
+This is what we primarily use to promote our local meetup events. At the same time as we announce the meetup and mesage members, we start advertising the event, with a link to the meetup event page. Twitter is the primary platform, however, LinkedIn has been used as well. Hashtags are used to target the appropriate audience. When possible, we use #chicago and/or #chicagotect. 
+
+About four days prior to the RSVP deadline, we push the deadline information, to create a sense of urgency.
+
+The day of the event, we post the live stream and live caption information throughout the day, up to the start of the event. We also post thank you posts on our sponsors.
+
+### Chicago Tech Events
+We post the event onto Chicago Tech Events at ![chicagotechevents.com/submit](http://chicagotechevents.com/submit).
+
+### Laura Carlson's Weekly Web Design Update Newsletter
+FOr events that provide a live stream and live captions, we send Laura the information prior to the Thursday before the event.
+
+### Eventbrite
+We often submit our event to ![Eventbrite](https://www.eventbrite.com/)Eventbrite.
+
 ## Set Up YouTube Live Stream
 ## Coordinating Live Caption Services 
 ## Day of Meetup Event
