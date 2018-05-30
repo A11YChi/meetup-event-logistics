@@ -192,6 +192,13 @@ To set up the Live Stream event on YouTube:
 
 5. Select either the New Live Event button, or Schedule a New Event link.
 
+![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/youtube-eventinfo.png "Event Info screen")
+
+6. Enter a Title, the beginning and ending date and time and the description used on the Meetup event page. Add tags/keywords that best related to the event topic. Make sure the event is Public. The type must be Quick (using Google Hangouts On Air).
+7. Select the Create event button.
+
+The resulting YouTube URL for this recording will be used in promoting the Live Stream for the event, as well as provide the Live Captioning service the Live Stream URL.
+
 
 ## Coordinating Live Caption Services 
 ## Day of Meetup Event
