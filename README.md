@@ -176,12 +176,23 @@ The day of the event, we post the live stream and live caption information throu
 We post the event onto Chicago Tech Events at ![chicagotechevents.com/submit](http://chicagotechevents.com/submit).
 
 ### Laura Carlson's Weekly Web Design Update Newsletter
-FOr events that provide a live stream and live captions, we send Laura the information prior to the Thursday before the event.
+For events that provide a live stream and live captions, we send Laura the information prior to the Thursday before the event.
 
 ### Eventbrite
 We often submit our event to ![Eventbrite](https://www.eventbrite.com/).
 
 ## Set Up YouTube Live Stream
+To set up the Live Stream event on YouTube:
+1. Go to [YouTube](https://www.youtube.com/)
+2. Login using the A11YChi credentials.
+3. Once logged in, select the account avitar and from the dropdown menu, select Creator Studio.
+4. Under Creator Studio, select Live Streaming, then Events.
+
+![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/youtube-newevent.png "New Live Event screen")
+
+5. Select either the New Live Event button, or Schedule a New Event link.
+
+
 ## Coordinating Live Caption Services 
 ## Day of Meetup Event
 ## Post Meetup Event
