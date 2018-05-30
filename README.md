@@ -210,7 +210,10 @@ Live captions can be provided in-person and remotely. For our meetups, we levera
 * YouTube Live Stream URL (see above)
 Carmin will provide a confirmation with the name and contact information of the remote captioner. If confirmation is not received by the RSVP deadline date, follow-up with Carmin for confirmation.
 
+*Note:* McDonalds sponsors the live captions for our meetup. Its best to check our balance with ACS (see Google sheet on shared Google Drive) prior to scheduling the live caption services. Remote live captions cost $100 for 60 mins. If we are running low, we need to contact Sheri at McDonalds well in advance of the event so approvals and processing can be completed.
+
 ## Day of Meetup Event
+
 ## Post Meetup Event
 
 
