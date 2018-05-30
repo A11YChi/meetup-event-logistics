@@ -15,8 +15,9 @@ This document hopes to capture everything involved in organizing a A11YChi event
 8. Promotion of the Event
 9. Set Up YouTube Live Stream
 10. Coordinating Live Caption Services 
-11. Day of Meetup Event
-12. Post Meetup Event
+11. RSVP Deadline
+12. Day of Meetup Event
+13. Post Meetup Event
 
 ## Conceive of the topic or theme
 A topic or theme may originate from discussion among co-organizers, member suggestions or other sources. If you have a valid topic in mind, the next step is to find someone who can deliver an intelligent, impactful talk on that topic.
@@ -212,7 +213,14 @@ Carmin will provide a confirmation with the name and contact information of the 
 
 *Note:* McDonalds sponsors the live captions for our meetup. Its best to check our balance with ACS (see Google sheet on shared Google Drive) prior to scheduling the live caption services. Remote live captions cost $100 for 60 mins. If we are running low, we need to contact Sheri at McDonalds well in advance of the event so approvals and processing can be completed.
 
+## RSVP Deadline
+For typical meetups, the RSVP deadline is 2 business days prior to the event, at 12 noon CT. The meetup event should have RSVPs turned off at this time.
+
+At 12 noon CT on the RSVP deadline day, the list of RSVPs, plus any additional individuals that need to have access to the venue (such as interpreters, presenters, etc.). To download the RSVP list,
+
+
 ## Day of Meetup Event
+
 
 ## Post Meetup Event
 
