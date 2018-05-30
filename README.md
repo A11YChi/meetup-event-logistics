@@ -179,7 +179,7 @@ We post the event onto Chicago Tech Events at ![chicagotechevents.com/submit](ht
 FOr events that provide a live stream and live captions, we send Laura the information prior to the Thursday before the event.
 
 ### Eventbrite
-We often submit our event to ![Eventbrite](https://www.eventbrite.com/)Eventbrite.
+We often submit our event to ![Eventbrite](https://www.eventbrite.com/).
 
 ## Set Up YouTube Live Stream
 ## Coordinating Live Caption Services 
