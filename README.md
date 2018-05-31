@@ -211,12 +211,25 @@ Live captions can be provided in-person and remotely. For our meetups, we levera
 * YouTube Live Stream URL (see above)
 Carmin will provide a confirmation with the name and contact information of the remote captioner. If confirmation is not received by the RSVP deadline date, follow-up with Carmin for confirmation.
 
-*Note:* McDonalds sponsors the live captions for our meetup. Its best to check our balance with ACS (see Google sheet on shared Google Drive) prior to scheduling the live caption services. Remote live captions cost $100 for 60 mins. If we are running low, we need to contact Sheri at McDonalds well in advance of the event so approvals and processing can be completed.
+_Note:_ McDonalds sponsors the live captions for our meetup. Its best to check our balance with ACS (see Google sheet on shared Google Drive) prior to scheduling the live caption services. Remote live captions cost $100 for 60 mins. If we are running low, we need to contact Sheri at McDonalds well in advance of the event so approvals and processing can be completed.
 
 ## RSVP Deadline
 For typical meetups, the RSVP deadline is 2 business days prior to the event, at 12 noon CT. The meetup event should have RSVPs turned off at this time.
 
 At 12 noon CT on the RSVP deadline day, the list of RSVPs, plus any additional individuals that need to have access to the venue (such as interpreters, presenters, etc.). To download the RSVP list,
+
+1. Navigate to our meetup.com homepage.
+2. Select the event.
+3. From the event page, select the Organizer tools drop-down, then select Manage attendees.
+![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/meetup-members.png "Manage members option")
+4. Select Tools, then Download attendees.
+![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/meetup-members-download.png "Download members")
+The list of RSVPs will be downloaded in Excel format.
+5. Open the Excel file.
+![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/member-attendee-excel.png "Attendee list in the downloaded Excel file")
+6. Delete all columns, except for "Name" and "What is your Full Legal Name?" The latter is the RSVP question. It is not required, however, it supplements the member name, which in some cases, is not acceptable for building security. As the RSVP question is not required, some RSVP may not provide a full legal name. Those can be deleted.
+![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/mmember-attendee-edited-01.png "Edited Attendee list")
+7. 
 
 
 ## Day of Meetup Event
