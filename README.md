@@ -229,11 +229,23 @@ The list of RSVPs will be downloaded in Excel format.
 ![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/member-attendee-excel.png "Attendee list in the downloaded Excel file")
 6. Delete all columns, except for "Name" and "What is your Full Legal Name?" The latter is the RSVP question. It is not required, however, it supplements the member name, which in some cases, is not acceptable for building security. As the RSVP question is not required, some RSVP may not provide a full legal name. Those can be deleted.
 ![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/member-attendee-edited-01.png "Edited Attendee list")
-7. Now, you must manually check between the "Name" and "What is your full legal name" columns, ensuring that the Name column has the full legal name. In the screen shot above, 
-
+7. Now, you must manually check between the "Name" and "What is your full legal name" columns, ensuring that the Name column has the full legal name. In the screen shot above, Alex Chen would be replaced with Allison Chen, Bonnie would be replaced with Bonnie Gabrielson, Brian C with Brian Chorba, etc.
+8. Once finished with this manual editing, and adding any additional names, delete the "What is your full legal name" column. Save the file.
+9. Send this file to the venue contact, labeling this the RSVP list for building security.
 
 ## Day of Meetup Event
+### Items to Ensure are Brought to the Meetup Event
+The following area items typically brought to the majority of meetup events. Some events do not require all items.
+# Laptop with cord (for live stream)
+# Lapel microphone (see below)
+# Tripod (for iPad recording)
+# Tripod adapter (for iPad)
+# No photo lanyards
+# Meetup stickers
+# Wireless remote
 
+### Live Stream Setup
+The live stream setup depends on the presentation, format, etc. For a typical live stream setup, where the laptop cam is used to capture both the slides and presenter, the laptop should be placed in front of the presentation area, ensuring both the slides and presenter are visible most of the time.
 
 ## Post Meetup Event
 
