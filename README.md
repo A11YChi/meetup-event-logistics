@@ -236,13 +236,13 @@ The list of RSVPs will be downloaded in Excel format.
 ## Day of Meetup Event
 ### Items to Ensure are Brought to the Meetup Event
 The following area items typically brought to the majority of meetup events. Some events do not require all items.
-# Laptop with cord (for live stream)
-# Lapel microphone (see below)
-# Tripod (for iPad recording)
-# Tripod adapter (for iPad)
-# No photo lanyards
-# Meetup stickers
-# Wireless remote
+* Laptop with cord (for live stream)
+* Lapel microphone (see below)
+* Tripod (for iPad recording)
+* Tripod adapter (for iPad)
+* No photo lanyards
+* Meetup stickers
+* Wireless remote
 
 ### Live Stream Setup
 The live stream setup depends on the presentation, format, etc. For a typical live stream setup, where the laptop cam is used to capture both the slides and presenter, the laptop should be placed in front of the presentation area, ensuring both the slides and presenter are visible most of the time.
