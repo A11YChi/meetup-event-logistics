@@ -27,7 +27,7 @@ Our goal is to represent a diverse mix of developer, user experience, design, te
 If you have a valid topic in mind, the next step is to find someone who can deliver an intelligent, impactful talk on that topic.
 
 ## Locate a speaker
-There is never a drought on speakers, only the awareness of, or availability of good speakers.
+There is never a drought on speakers, only the awareness of, or availability of good speakers. We look for diverse speaker, from every ability, gender, orientation, etc.
 
 Look for speakers locally, within our own A11YChi member community. Even within the Chicagoland area, who have never heard of our meetup community. Look for local folks who have spoken at other local meetups or other digital events. Check the Twitters for local folks who have written an engaging article on A List Apart, Medium or other online outlets.And of course, if there is a topic you'd really like to see covered, seek out a local expert on that topic.
 
