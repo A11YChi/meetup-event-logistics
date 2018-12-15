@@ -71,21 +71,48 @@ You first need to create the meetup event on Meetup.com.
 2. On the right side, select the **"Create an event"** downdrop button, and select the **"Create a New Event"** option.
 ![Screenshot of Meetup.com A11YChi page with red Create an event button in lower right](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/Create-Event-Button.png) 
 
-The "Schedule a Meetup" screen appears.
+The "Create an event" screen appears.
 
-#### Meetup Title
+#### Meetup Event Title
 
-![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/meetup-schedule-title.png "The meetup event title field")
+![The meetup event title field](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/Create-Event-Title.png)
 
-The first field is the Meetup Title. This is an up to 80 character descriptive title for the event. Shorter is better (think social media), but we must make it descriptive.
+The first field is the Title. This is an up to 80 character descriptive title for the event. Shorter is better (think social media), but we must make it descriptive.
 
 #### Meetup Date and Time
 
-![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/meetup-schedule-date-time.png "The meetup event date and time")
+**Note:** The time listed has come under recent scrutiny and confusion. The start time is when we want everyone there. To date, this has been 15 minutes before the housekeeping announcements and 30 minutes before the fomeal presentation begins. We counter any confusionor frustration by posting the actual schedule of events on the meetup page, and in the member messages.
 
-Here, you input the event date. Time is typically 6pm, ending at 8pm.
+![The meetup event date and time](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/Create-Event-Date-Time.png)
 
-We leave the meetup event as being hosted "just once."
+Here, you input the event date. Time is typically 6pm, and we try to end at 8pm, so Duration would be set to 2 hours.
+
+#### Featured Photo
+![Featured Photo option](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/Create-Event-Photo.png )
+
+A Featured Photo is important for several reasons:
+* On the Meetup page, it can communicate the vibe and energy for the event.
+* On social media (pickedup automatically), it can communicate the energy for the event to new people.
+
+Consider using an image found in the [Photos section](https://www.meetup.com/a11ychi/photos/) of our meetup site. Ideally, use one that shows popularity, interest in the topic, diverse attendees, etc. If no image meets the needs, find a free to use image (no restrictions, copyright) that helps support the event. 
+
+#### Description
+![Description field](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/Create-Event-Description.png)
+The description field holds all the textual information presented on the meetup.com event page. You are limited to 4000 characters (which is easily managed, except for special events, like Global Accessibility Awareness Day (GAAD), Lightning Talks, etc.).
+
+Information provided should include the following:
+* Schedule of events: Timings for events during the meetup. Example
+** 5:30 p.m.: Doors open
+** 6:15 p.m.: Housekeeping announcements
+** 6:30-7:30 p.m.: Presentation and Q&A
+** 7:30 p.m.: Socializing begins
+** 8:00 p.m. Socializing / Event ends
+* Details/Description of the presnetation or event
+* Speaker Bio
+
+
+
+
 
 #### Where
 
