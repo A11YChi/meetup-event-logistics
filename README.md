@@ -37,6 +37,8 @@ Ideally, we would strive for a local/global speaker mix of 50/50, even 70/30.
 
 Once a speaker has provided agreement to speaker at our meetup, we need to obtain the spreakers contact information (email, phone, Twitter, etc.), the title of their talk, a broef one paragraph description of their talk, their bio, and a hi-res photo. Make sure to ask for and receive the speaker(s) pronouns (he/his, etc.). We also need to understand their availability, as this information will aid in selecting a venue.
 
+Lastly, we must receive a final copy of their deck 1-2 days in advance of the event, so we may send a copy to the ACS Captions remote captioner, so they can orientate themselves with the content.
+
 ## Locate a venue
 We presently have a list on our Google Docs repository (Meetup Venues & Contacts) of venues that we either have worked with in the past or became aware of however have not used as of yet. The listing provides the capacity of each venue. 
 
@@ -107,79 +109,59 @@ Information provided should include the following:
   * 6:30-7:30 p.m.: Presentation and Q&A
   * 7:30 p.m.: Socializing begins
   * 8:00 p.m. Socializing / Event ends
-* Details/Description of the presnetation or event
-* Speaker Bio
-
-
-
-
+* Details/Description of the presentation or event: This is the information provided by the speaker. No heading is necessary. 
+* Speaker Bio: This is the information provided by the speaker. A heading should appear prior to this information.
+* Venue sponsor: Information about the venue sponsor.
+* Live Stream & Live Captioning info: Provide a lead in sentence (ex. This event will be live-streamed and captioned (beginning time - end time w/Time Zone), followed by the live stream URL (generated dynamically by YouTube after creating the live event) and the live captions URL (with ACS Captions, typically http://www.streamtext.net/player?event=CDA). See [Live Stream Setup](https://github.com/A11YChi/Live-Stream-Setup) for information on setting up the Live Stream prior to announcing the event (if streamed).
+* Accessibility Statement: With the heading of "An Accessible Experience," present the following prompt: "If you need accommodation for this event, please contact us ASAP, so we can ensure we can accommodate you."
 
 #### Where
 
-![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/meetup-schedule-location.png "The meetup event location")
+![The meetup event location](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/Create-Event-Location.png)
 
-Here is where we select the location of the venue. If listed under "Recent Places," then simply select. Otherwise, enter the address in the search text input box with the label "Pick a place."
+Here is where we select the location of the venue. 
 
 If at a large corporate organization, make sure the floor matches what the contact communicated. We have had a few mix-ups in the past.
 
-#### What
+#### Hosts
 
-![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/meetup-schedule-what.png "Photo for the event and the description field, allowing for 4000 characters.")
+![Selecting the event host](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/Create-Event-Hosts.png)
 
-The What section prompts for an event photo and description.
+By default, the organizer creating the event is the host. If you are working with another organizer, you can add them as a host as well. Otherwise, let the other organizer's RSVP.
 
-For the photo, we typically use a overall crowd shot from a prior meetup event. This way, there is an expectation set on the format and environment for the event. If the topic calls for it, we may use a custom "hero" image, similar to [our April 2018 meetup event](https://www.meetup.com/a11ychi/events/247810000/).
+#### Optional Settings
 
-For the description, it should following this format:
+![Other section](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/Create-Event-Other.png)
 
-[meetup event description]
-[Presenter bios]
+While optional, this section holds soe very important settings for us.
+* Repeat event: Not used
+* **Ask members a question:** Very important, when the venue is in an office building that requires a RSVP list for building security. In those cases, this option is turned on, and the following question asked: "What is your full legal name? (this will only be used for RSVP and will remain private, not public)"
+* **Attendee limit:** This number is used to determine the RSVP limit and when the waitlist is invoked. As of December 2018, with an actul attendance rate compared with RSVPs of 50%, we double the actual venue capacity (ex. actual capacity 80, RSVP limit 160). This formula may change over time. 
+* **Allow Guests:** This option must be turned off for venues that require an RSVP list for building security. For venues that don't have this requirement, this option may be turned on, with a limit of 5 guests. (Note: Dennis isn't crazy about this, but open)
+* **RSVP start and end time:** This will be set for all events. All events have a RSVP start of "Now." RSVP close time allows for "Start of Meetup" (can be used for events where there is no advance RSVP requirement by building security), "Day of Meetup (not used),  "1 day before" (used for when building security requires RSVP list). (**Note:** Venues ask for the list 2 businessday days prior to the event, around 12 noon. This "1 day before" option is a constraint we have not had in the past. This will need to be communicated to our venues upfront).  
+* Event fee: Not used, as we haven't chanrged for events (to date).
 
-As the event gets closer, additional information is added, such as RSVP/Waitlist handling, requests to change your RSVP if your plan change and the schedule of events.
+Meetup.com now provides a way to Save the event as draft, which is good, if you don't have all of the information up front.
 
-#### Who
-
-![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/meetup-schedule-who.png "Who is hosting the event, capacity and if members can bring guests")
-
-The person scheduling the meetup event is the default host of the event. You can add other organizers to this list.
-
-For number of spots available, this is directly tied into the capacity for the venue. We typically oversell events, like airlines. We have an average attendance rate over RSVPs of 40%. Therefore, it is acceptable to set the available spots to double the actual capacity. This may change in the future, or for some events. We do not wish to have more people attend than can officially be hosted in a space, as this may cause issues for the venue-sponsoring organization.
-
-We do not want members to bring "guests" to meetup events, as most venues require a list of names of individuals on the RSVP list for building security. So ensure this is not checked.
-
-#### Additional Settings
-
-![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/meetup-schedule-additional-settings.png "Member question and RSVP start/end time")
-
-The options under Additional Settings are all off by default. 
-
-Turn on the "Ask a member a question" option. We use this field to obtain the member's legal full name, which is only used for the RSVP list that is sent to building security. The exact verbage of the member question is:
-
-**_What is your full legal name (this information is necessary for building security only and will not be shared elsewhere)?_**
-
-Turn on the RSVP start and end time option. This allows us to start accepting RSVPs at a later time after the meetup is announced. We typically turn off RSVPs two days prior to the event, so the venue's building security has time to enter all the names in.
-
-Before Publishing the meetup event, you can Preview it, or simply save it as a draft. Publishing places the meetup information on the meetup's meetup.com website. However, while the meetup event is published live for the public to access, no one has been proactively informed that the meetup information is available.
-
-To proactively push this information to meetup members, you select the "Announce this Meetup" button.
+To make the event available on the meetup.com site, you select **Publish**. At this point, the event is discoverable. However, the meetup event has not yet been announced to members. To do this, you select the **"Announce this Meetup"** button.
 
 #### A Note on Announcing vs. Making RSVPs Available
 
 Through trial and error, we have discovered that we get an improved ratio of actual attendees to RSVPs when we announce no earlier than two weeks prior to the event. This typcally allows just over a week and a half for people to RSVP. So while technically, you can publish a meetup event on the meetup.com website, you shouldn't announce the event until two weeks prior to the event.
 
 ## Meetup Member Messages
-We primarily use member messages to promote upcoming meetup events. However, we also attemot to provide value by also incouding other events, news and information that may be interesting to our members.
+We primarily use member messages to promote upcoming meetup events. However, we also attempt to provide value by also including other events, news and information that may be interesting to our members.
 
 For promotional purposes, we send 2-3 member emails out,
-* the first being two weeks prior to the event
-* the seecond being one week prior to the event
-* a third message is potentially sent shortly before the RSVP deadline if 
+* Two weeks prior to the event: message highlights the next, upcoming meetup event (with the timing/schedule for event), along with other upcoming information, resources of note, and other info related to the meetup (subscribe to our YouTube channel, follow us on Twitter, Facebook, etc.).
+* One week prior to the event: similar to first message, possibly addressing additional information about the event.
+* Within a few days of the event: sent shortly before the RSVP deadline if 
   * our RSVP numbers are low
   * we are waitlisted and feel a reminder that RSVPs should be changed if plans change
 
 To create an email message to members:
 1. Navigate to the A11YChi meetup homepage.
-2. On the left side, select the "Manage group" drop-down button, then select "Email members.""
+2. On the left side, select the "Manage group" drop-down button, then select "Contact members."
 3. The default setting, "All members subscribed to organizer messages" should be selected. Other options are available based on the situation.
 
 ![alt text](https://github.com/A11YChi/meetup-event-logistics/blob/master/img/meetup-member-email.png "Member message audience targeting and subject line")
@@ -235,7 +217,7 @@ To set up the Live Stream event on YouTube:
 The resulting YouTube URL for this recording will be used in promoting the Live Stream for the event, as well as provide the Live Captioning service the Live Stream URL.
 
 ## Coordinating Live Caption Services 
-We schedule our live captions and any other alternative communication services more than a week prior to the event. A11YChi uses Alternative Communication Services (ACS). While the business has an online form to request services, we typically contact the operations manager, Carmin Beardsley, directly via email to ensure proper scheduling.
+We schedule our live captions and any other alternative communication services more than a week prior to the event. A11YChi uses Alternative Communication Services (ACS). While the business has an online form to request services, we typically contact Customer Service Specialist **Raja Seivwright** directly via email (**raja@acscaptions.com**), cc: **Dennis Deacon** (**deconspray@gmail.com**) to ensure proper scheduling.
 
 Live captions can be provided in-person and remotely. For our meetups, we leverage remote live captioning. This requires the live streaming and supportive wi-fi to be of the highest quality. When scheduling the event with Carmin, we provide the following information:
 * Date of event
@@ -243,9 +225,9 @@ Live captions can be provided in-person and remotely. For our meetups, we levera
 * Name of the event
 * Meetup event page URL
 * YouTube Live Stream URL (see above)
-Carmin will provide a confirmation with the name and contact information of the remote captioner. If confirmation is not received by the RSVP deadline date, follow-up with Carmin for confirmation.
+Raja will provide a confirmation with the name and contact information of the remote captioner. If confirmation is not received by the RSVP deadline date, follow-up with Carmin for confirmation.
 
-**Note:** McDonalds sponsors the live captions for our meetup. Its best to check our balance with ACS (see Google sheet on shared Google Drive) prior to scheduling the live caption services. Remote live captions cost $100 for 60 mins. If we are running low, we need to contact Sheri at McDonalds well in advance of the event so approvals and processing can be completed.
+**Note:** McDonalds sponsors the live captions for our meetup. Its best to check our balance with ACS (see Google sheet on shared Google Drive) prior to scheduling the live caption services. Remote live captions cost $100 for 60 mins. If we are running low, we need to contact McDonalds well in advance of the event so approvals and processing can be completed. Dennis will hndle this.
 
 ## RSVP Deadline
 For typical meetups, the RSVP deadline is 2 business days prior to the event, at 12 noon CT. The meetup event should have RSVPs turned off at this time.
@@ -268,39 +250,57 @@ The list of RSVPs will be downloaded in Excel format.
 9. Send this file to the venue contact, labeling this the RSVP list for building security.
 
 ## Day of Meetup Event
-### Items to Ensure are Brought to the Meetup Event
+### Items to ensure are brought to the Meetup Event
 The following area items typically brought to the majority of meetup events. Some events do not require all items.
-* Laptop with cord (for live stream)
+* Laptop with cam and cord (for live stream)
 * Lapel microphone (see below)
+* An additional recording device (iPad) for second angle recording, not connected to live stream (typically)
 * Tripod (for iPad recording)
 * Tripod adapter (for iPad)
-* No photo lanyards
-* Meetup stickers
-* Wireless remote
+* Wireless remote (Dennis provides)
+* "No photo" orange lanyards
+* Meetup stickers (_discountinued presently ... as we ran out_)
+* Pronoun pins (_need to replenish, as some are low ... further discussion on this_)
 
 ### Live Stream Setup
-The live stream setup depends on the presentation, format, etc. For a typical live stream setup, where the laptop cam is used to capture both the slides and presenter, the laptop should be placed in front of the presentation area, ensuring both the slides and presenter are visible most of the time.
+The live stream setup depends on the presentation, format, etc. For a typical live stream setup, where the laptop cam is used to capture both the slides and presenter, the laptop should be placed in front of the presentation area, ensuring both the slides and presenter are visible most of the time. Ensure that all slides are visible from the cam/stream, incouding no glare. All content should be readible from the stream. Make sure the lapel microphone is connected to the live stream laptop/cam. Ensure the speaker places the lapel mic on their upper torso, in the middle. Text to ensure proper sound levels are being picked up by the microphone on the laptop/cam.
+
+### Speaker prep
+Speakers are asked to arrive at least 30 mins. prior to the start of their talk (more is better).
+
+Ensure the speaker's laptop is connected properly with the venue's A/V system. If HDMO, both visual and sound should come through. If using VGA or macOS Lightning, only visual will come through. Make sure to perform a sound/mic test, not only with the live stream lapel mic, but also with the venue mic (hand-held, lapel, etc.) to ensure proper sound levels. Make sure their presentation comes across properly on the screen, noting that different resolutions may wreck havoc. Inform them that one mic is for the live stream, and the other is for in-person attendees.
+
+Make decisions on handling Q&A (whether the spreaker is comfortable taking questions or not. Give them "the" signal for 5 minutes left or wrap up. Let them know where you or the appropriate person will be standing.
+
+### Pre-event Slide Loop
+Dennis typically prepares a pre-event slide loop (reveal.js), which presents information for the current event (wi-fi information (if available), live caption information (if necessary), sponsor information, upcoming meetup information, accessibility related quotes, etc.
+
+### Housekeeping Announcements
+Housekeeping announcements are made generally 15 minutes prior to the start of the presentation. They include the following:
+* Thanks to our venue (opportunity to have a rep from the venue speak about their organization)
+* Live Captions URL (if needed/not projected on screen)
+* Got jobs? (call for anyone with opportunities.) Also an opportunity for a recruiter representation (sponsored) to speak.
+* Upcoming A11YChi events
+* Other notable items
+* Social media (Twitter hashtag to follow)
+* Q&A (how/if we'll handle)
+* Introduction of speaker and presentation.
+
+#### Housekeeping announcements slides
+(**Note:** Dennis will prepare a template that can be used by anyone on the GitHub repo)
+Dennis typically prepares a housekeeping slide deck (reveal.js) which provides visuals for the housekeeping announcements. These differ slightly from the pre-event slide loop, removing the quotes and adding more sponsorship information.
+
+### Questions and Answers (Q&A)
+Question and Answers should be handled based on spreaker preference, whether throughout the presentation, only after the presentation, or no formally Q&A; questions handled by speaker 1-on-1 after the presentation.
+
+In the past, some attendees have either verbally constructed their questions, providing unnecessary background, or have made lengthy statements. This has become a noticable problem, of which we are attempting to address. Potential solutions are:
+* Providing an announcement and guidance prior to taking Q&A. Guidance includes asking to be broef, as the speaker needs to repeat the question.
+* Same as above, but in addition, cutoff questions and statement if they become too lengthy
+* Provide a non-verbal, yet accessible means of asking questions
+
+This topic is still being discussed, as of December 2018.
 
 ## Post Meetup Event
+Dennis typically sends a note to the speakers, thanking them for speaking, asking them for a final copy of their deck (if changes had been made prior to the event). This copy is used for the post-event video editing.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Dennis also sends a note to organizers that attended the event, requesting feedback from the event.
