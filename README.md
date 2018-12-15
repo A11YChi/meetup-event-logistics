@@ -101,12 +101,12 @@ Consider using an image found in the [Photos section](https://www.meetup.com/a11
 The description field holds all the textual information presented on the meetup.com event page. You are limited to 4000 characters (which is easily managed, except for special events, like Global Accessibility Awareness Day (GAAD), Lightning Talks, etc.).
 
 Information provided should include the following:
-* Schedule of events: Timings for events during the meetup. Example
-** 5:30 p.m.: Doors open
-** 6:15 p.m.: Housekeeping announcements
-** 6:30-7:30 p.m.: Presentation and Q&A
-** 7:30 p.m.: Socializing begins
-** 8:00 p.m. Socializing / Event ends
+* Schedule of events: Timings for events during the meetup. Example:
+  * 5:30 p.m.: Doors open
+  * 6:15 p.m.: Housekeeping announcements
+  * 6:30-7:30 p.m.: Presentation and Q&A
+  * 7:30 p.m.: Socializing begins
+  * 8:00 p.m. Socializing / Event ends
 * Details/Description of the presnetation or event
 * Speaker Bio
 
